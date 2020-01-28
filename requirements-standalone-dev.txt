@@ -1,0 +1,8 @@
+rope
+nose
+flake8
+boto3
+black
+ipdb
+pep8
+mypy
