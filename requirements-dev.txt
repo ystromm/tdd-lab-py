@@ -37,11 +37,11 @@ ijson==2.3
 backoff==1.4.0
 pysha3==1.0.2
 dateparser==0.6.0
-pyOpenSSL==17.0.0
+pyOpenSSL==17.5.0
 suds-requests==0.3.1
 cookiecutter==1.5.1
 tabulate==0.8.1
-paramiko==2.2.1
+paramiko==2.2.4
 git+https://github.com/funnel-io/xlrd.git@51a2689816fa68673976838d41e3931cca946c6e
 imagetyperzapi2==0.4
 backports.csv==1.0.5
