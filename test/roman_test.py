@@ -10,6 +10,9 @@ class RomanTestCase(unittest.TestCase):
     def test_II_should_be_2(self):
         self.assertEqual(roman.to_int("II"), 2)
 
+    def test_III_should_be_2(self):
+        self.assertEqual(roman.to_int("III"), 3)
+
     def test_Q_should_raise(self):
         with self.assertRaises(roman.RomanNumberFormatException):
             roman.to_int("Q")
