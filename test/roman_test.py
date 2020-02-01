@@ -1,7 +1,7 @@
 import unittest
 
 
-class ShoppingCartTest(unittest.TestCase):
+class RomanTestCase(unittest.TestCase):
     def test_something(self):
         self.assertEqual(True, False)
 
