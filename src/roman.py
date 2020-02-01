@@ -1,9 +1,10 @@
 def to_int(str):
-    if str == "I":
+    lower = str.lower()
+    if "i" == lower:
         return 1
-    elif str == "II":
+    elif "ii" == lower:
         return 2
-    elif str == "III":
+    elif "iii" == lower:
         return 3
     else:
         raise RomanNumberFormatException
