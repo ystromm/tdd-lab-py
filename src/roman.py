@@ -1,2 +1,5 @@
 def to_int(str):
-    pass
+    if str == "I":
+        return 1
+    else:
+        return 2
