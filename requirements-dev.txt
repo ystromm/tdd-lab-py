@@ -28,7 +28,7 @@ six==1.11.0
 suds-jurko==0.6
 unicodecsv==0.9.4
 pycrypto==2.6.1
-httplib2==0.9.1
+httplib2==0.18.0
 oauth2==1.5.211
 lxml==4.1.1
 cssselect==0.9.1
