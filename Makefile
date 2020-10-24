@@ -14,8 +14,8 @@ venv/requirements-standalone-dev.txt: requirements-standalone-dev.txt requiremen
 
 .PHONY: test
 test: venv venv/requirements-standalone-dev.txt
-	@ . venv/bin/activate && flake8  src test --exclude '#*,~*,.#*'
 	@ . venv/bin/activate && nosetests
+	@ . venv/bin/activate && flake8  src test --exclude '#*,~*,.#*'
 
 # Cleaning
 
