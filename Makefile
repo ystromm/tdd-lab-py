@@ -1,4 +1,4 @@
-export PYTHON_VERSION = python3.7
+export PYTHON_VERSION = python3.8
 
 venv:
 	virtualenv venv --python=$$PYTHON_VERSION
