@@ -30,7 +30,7 @@ unicodecsv==0.9.4
 pycrypto==2.6.1
 httplib2==0.18.0
 oauth2==1.5.211
-lxml==4.1.1
+lxml==4.6.2
 cssselect==0.9.1
 git+https://github.com/funnel-io/raven-python.git@47f3eb48ed4edcab2f02eb4c6d02a668175732d7
 ijson==2.3
