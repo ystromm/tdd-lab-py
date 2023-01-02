@@ -6,7 +6,7 @@
 
 connector-plugin
 
-setuptools==33.1.1
+setuptools==65.5.1
 argparse==1.2.1
 boto==2.36.0
 boto3==1.5.27
