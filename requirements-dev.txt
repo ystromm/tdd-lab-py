@@ -11,7 +11,7 @@ argparse==1.2.1
 boto==2.36.0
 boto3==1.5.27
 docutils==0.14 # workaround for https://github.com/aws/aws-cli/issues/4332
-certifi==2022.12.7
+certifi==2023.7.22
 contextlib2==0.4.0
 flake8==2.4.0
 itsdangerous==0.24
